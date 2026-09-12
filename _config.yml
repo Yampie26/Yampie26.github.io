@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : bugaosuni
+  instagram        : 
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -74,13 +74,13 @@ author:
   steam            : Yampie
   telegram         : # URL
   tumblr           : # Username
-  twitter          : bugaosuni
+  twitter          : 
   vine             : # Username
-  weibo            : bugaosuni
+  weibo            : 
   wikipedia        : # Username
   xing             : # Username
-  youtube          : bugaosuni
-  zhihu            : bugaosuni
+  youtube          : 
+  zhihu            : 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
